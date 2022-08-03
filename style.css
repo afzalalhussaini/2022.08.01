@@ -1,0 +1,34 @@
+.div{
+    background-image:url("images.jpg") ;
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: cover;
+    text-align: center;
+}
+.button{
+    font-size: 25px;
+    border-radius: 5px;
+    background-color: rgb(13, 13, 117);
+    color: aliceblue;
+}
+.button:hover{
+    font-size: 25px;
+    border-radius: 5px;
+    background-color: rgb(6, 127, 136);
+    color: aliceblue;
+}
+.input{
+    background-color: blue;
+    font-size: 40px;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.input:hover{
+    background-color: rgb(255, 0, 212);
+    font-size: 40px;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.h1{
+    color: aliceblue;
+}
